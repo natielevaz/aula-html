@@ -12,6 +12,8 @@
 |`<a> </a>`| `criação de links, o qual podem ser incluídos atributos que indicam características do mesmo`|
 |`href`| `atributo que junto a tag <a>, indica a URL do documento vinculado a este`|
 |`<p></p>`| ``|
+
+<STRONG> EM CONSTRUÇÃO </STRONG>
   
 
  
