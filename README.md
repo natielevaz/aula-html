@@ -44,7 +44,6 @@
 |`<b></b>`| `Texto em negrito`|
 |`<center></center>`| `Usado para centralização dos elementos no documento`|
 
-<STRONG> EM CONSTRUÇÃO </STRONG>
   
 
  
