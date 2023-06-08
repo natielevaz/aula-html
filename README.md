@@ -5,7 +5,7 @@
 ## AULA SOBRE HTML - CURSO FULL STACK SENAC  
   
   Nesta aula aprendemos alguns dos príncipios básicos do HTML e suas aplicações utilizando o VScode. 
-  Para melhor fixação do conteúdo, segue abaixo a lista com as principais tags e atributos que utilizamos e a definição de cada um.
+  Para melhor fixação do conteúdo, segue abaixo a lista com a definição das principais tags e atributos que utilizamos.
   
   
 </div>
